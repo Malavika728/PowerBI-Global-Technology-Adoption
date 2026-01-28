@@ -34,7 +34,17 @@ The complete dashboard logic, transformations, and visuals are contained in the 
 
 ## 📁 Repository Structure
 
-
+'''PowerBI-Global-Technology-Adoption/
+├── README.md
+├── dashboards/
+│ └── Global_Technology_Adoption.pbix
+├── screenshots/
+│ ├── overview_dashboard.png
+│ ├── regional_analysis.png
+│ ├── technology_comparison.png
+│ └── trend_analysis.png
+└── data/
+└── README.md '''
 
 
 ---
